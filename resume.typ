@@ -2,12 +2,12 @@
 
 #show: resume.with(
   author: (
-      firstname: "Aaaaaaa", 
-      lastname: "Aaa",
+      firstname: "Abhinav", 
+      lastname: "Sharma",
       email: "aaaaaaaaaa@aaaaa.aaa", 
       phone: "(+1) 0000000000",
-      github: "aaaaaaaaa",
-      linkedin: "aaaaaaaa",
+      github: "abhi18av",
+      linkedin: "abhi18av",
       positions: (
         "Aaaaaaaa Aaaaaaaa",
         "Aaaa Aaaaa Aaaaaaaaa",
